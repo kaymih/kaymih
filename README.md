@@ -1,3 +1,5 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=ffffff&center=true&vCenter=true&width=450&lines=Heyy+how+did+you+get+here?;Nice+to+meet+you+im+kaymih"/></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaymih&show_icons=true&theme=dark" alt="GitHub stats" /></p>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kaymih&theme=dark" alt="GitHub Streak" /></a></p>
